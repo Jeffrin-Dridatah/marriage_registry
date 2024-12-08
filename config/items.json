@@ -1,0 +1,123 @@
+[
+    {
+      "id": "item1",
+      "name": "Designer Saree",
+      "price": 15000,
+      "description": "A beautiful traditional Indian designer saree.",
+      "images": ["img1.jpg", "img2.jpg"],
+      "externalLink": "https://example.com/saree"
+    },
+    {
+      "id": "item2",
+      "name": "Kitchenware Set",
+      "price": 5000,
+      "description": "High-quality stainless steel kitchenware set.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item3",
+      "name": "Handcrafted Jewelry",
+      "price": 8000,
+      "description": "A delicate piece of handmade jewelry.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item4",
+      "name": "Fine Cutlery",
+      "price": 3000,
+      "description": "A refined cutlery set for special dinners.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item5",
+      "name": "Bed Linen Set",
+      "price": 4000,
+      "description": "Soft and luxurious bed linens.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item6",
+      "name": "Dinnerware Set",
+      "price": 6000,
+      "description": "Elegant dinnerware for hosting guests.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item7",
+      "name": "Coffee Maker",
+      "price": 2500,
+      "description": "Brew fresh coffee every morning.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item8",
+      "name": "Crystal Vase",
+      "price": 2000,
+      "description": "A classy vase to hold beautiful flowers.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item9",
+      "name": "Decorative Lamp",
+      "price": 3000,
+      "description": "A stylish lamp to light up the home.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item10",
+      "name": "Silk Throw",
+      "price": 3500,
+      "description": "A luxurious silk throw for the couch.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item11",
+      "name": "Tea Set",
+      "price": 1500,
+      "description": "A charming tea set for afternoon tea.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item12",
+      "name": "Photo Frame Set",
+      "price": 1200,
+      "description": "Frame your cherished memories.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item13",
+      "name": "Wine Glass Set",
+      "price": 2000,
+      "description": "Elegant glasses for special occasions.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item14",
+      "name": "Cookbook Collection",
+      "price": 2500,
+      "description": "A selection of gourmet cookbooks.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    },
+    {
+      "id": "item15",
+      "name": "Handwoven Rug",
+      "price": 7000,
+      "description": "A beautiful rug to add warmth to the home.",
+      "images": ["img1.jpg"],
+      "externalLink": null
+    }
+  ]
+  
